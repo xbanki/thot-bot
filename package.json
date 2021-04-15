@@ -6,5 +6,13 @@
   "repository": "https://github.com/xbanki/thot-bot",
   "author": "xbanki <contact@xbanki.me>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "@commitlint/cli": "^12.1.1",
+    "@commitlint/config-conventional": "^12.1.1",
+    "husky": "^6.0.0"
+  },
+  "scripts": {
+    "postinstall": "husky install"
+  }
 }
