@@ -1,0 +1,28 @@
+{
+  "[json]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace",
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2
+  },
+  "[jsonc]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace",
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2
+  },
+  "[typescript]": {
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace",
+    "editor.detectIndentation": false,
+    "editor.tabSize": 4
+  }
+}
