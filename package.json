@@ -1,0 +1,10 @@
+{
+  "name": "thot-bot",
+  "version": "0.0.1+alpha.0",
+  "description": "A small & modular Discord bot built with expandability in mind.",
+  "main": "src/thot.ts",
+  "repository": "https://github.com/xbanki/thot-bot",
+  "author": "xbanki <contact@xbanki.me>",
+  "license": "MIT",
+  "private": true
+}
