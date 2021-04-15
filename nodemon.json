@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/nodemon",
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "exec": "ts-node -r tsconfig-paths/register ./src/thot.ts",
+  "ext": "js,jsx,ts,tsx,json",
+  "ignore": [
+    "node_modules",
+    "*.test.*",
+    "__tests__/*",
+    "test/**/*",
+    "src/**/*.spec.*"
+  ],
+  "watch": [
+    "src/**/*"
+  ]
+}
