@@ -8,15 +8,15 @@
 </p>
 <p align="center">
   <a href="https://app.codecov.io/gh/xbanki/thot-bot/branch/main">
-    <img alt="CodeCov Code Coverage" src="https://img.shields.io/codecov/c/gh/xbanki/thot-bot?logo=codecov&style=flat-square"/>
+    <img alt="CodeCov Code Coverage" src="https://img.shields.io/codecov/c/gh/xbanki/thot-bot?color=%23F01F7A&label=codecov%2FcodeCoverage&logo=codecov&style=flat-square"/>
   </a>
   <a href="https://david-dm.org/xbanki/thot-bot">
-    <img alt="DavidDM Dependency Status" src="https://img.shields.io/david/xbanki/thot-bot?style=flat-square"/>
+    <img alt="DavidDM Dependency Status" src="https://img.shields.io/david/dev/xbanki/thot-bot?label=david%2FdevDependencies&style=flat-square"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/xbanki/thot-bot/blob/master/LICENSE">
-    <img alt="License" src="https://img.shields.io/github/license/xbanki/thot-bot?style=flat-square"/>
+    <img alt="License" src="https://img.shields.io/github/license/xbanki/thot-bot?label=github%2Flicense&logo=github&style=flat-square"/>
   </a>
 </p>
 
