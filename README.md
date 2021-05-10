@@ -10,7 +10,7 @@
   <a href="https://app.codecov.io/gh/xbanki/thot-bot/branch/main">
     <img alt="CodeCov Code Coverage" src="https://img.shields.io/codecov/c/gh/xbanki/thot-bot?color=%23F01F7A&label=codecov%2FcodeCoverage&logo=codecov&style=flat-square"/>
   </a>
-  <a href="https://david-dm.org/xbanki/thot-bot">
+  <a href="https://david-dm.org/xbanki/thot-bot?type=dev">
     <img alt="DavidDM Dependency Status" src="https://img.shields.io/david/dev/xbanki/thot-bot?label=david%2FdevDependencies&style=flat-square"/>
   </a>
 </p>
